@@ -1,4 +1,4 @@
-# Single-and-Multispeaker-Voice-Recognition
+# Single and Multispeaker Voice Recognition
 
 The project is an android application.
 It has the all the files required for the build.
