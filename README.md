@@ -1,8 +1,14 @@
 # Single and Multispeaker Voice Recognition
 
-The project is an android application.
+## What is it?
+An android application that uses machine learning to detect the identity of the person speaking.
+
+## Technologies Used
+Android OS, Java, REST
+
+## How it works
 It has the all the files required for the build.
-Download the project, build it in Android SDK.
+Clone or download the project, build it in Android SDK.
 An apk will be generated that can be installed on an android smartphone and run.
 
 For training phase:
