@@ -1,7 +1,7 @@
 # Single and Multispeaker Voice Recognition
 
 ## What is it?
-An android application that uses machine learning to detect the identity of the person speaking.
+An android application that uses machine learning to identify the person who is speaking.
 
 ## Technologies Used
 Android OS, Java, REST
